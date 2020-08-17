@@ -1,0 +1,6 @@
+name: RessourcePackAPMC
+version: 1.0.0
+api-version: 1.15
+description: Le ressource pack d'APMC.
+author: Natthh
+main: fr.natthh.stan.Main
